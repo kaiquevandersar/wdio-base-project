@@ -28,7 +28,7 @@
     "webdriverio": "^5.12.5"
   },
   "dependencies": {
-    "log4js": "^5.2.2",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "path": "^0.12.7",
     "selenium-standalone": "^6.16.0"
