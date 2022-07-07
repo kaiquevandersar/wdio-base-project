@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "log4js": "^5.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "path": "^0.12.7",
     "selenium-standalone": "^6.16.0"
   }
